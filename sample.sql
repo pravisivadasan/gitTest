@@ -1,0 +1,1 @@
+ALTER TABLE `ci_company` ADD COLUMN `sample` INT NULL AFTER `series_id`;
